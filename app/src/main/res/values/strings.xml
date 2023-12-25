@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InchesToCentimeters</string>
+    <string name="convert">CONVERT</string>
+    <string name="enter_value_here">Enter value here....</string>
+</resources>
